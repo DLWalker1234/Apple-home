@@ -1,6 +1,6 @@
 # Apple Homepage Recreation
 
-![alt text](img.png "Page Landing")
+![picture](img/img.PNG)
 
 One Paragraph of project description goes here
 
